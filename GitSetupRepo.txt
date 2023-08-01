@@ -1,0 +1,12 @@
+In order to create a repository, go to github.com and create a repository.
+
+# Git init 
+    git init command is used for initializing the git in current working directory. Once we initialize the git using this command we need to do the changes from that directory itself.
+
+    eg: git init
+
+# Git clone
+    after initializing the git if we have a git repository with us then we can use this command for cloning the remote repositoey our machine using this command.
+    A copy of the repository will be created in our system.
+
+    eg git clone <url>
