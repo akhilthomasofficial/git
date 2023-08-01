@@ -1,1 +1,1 @@
-
+This is the repository dedicated for my Git Learning.
