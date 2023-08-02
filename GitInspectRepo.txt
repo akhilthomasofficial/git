@@ -1,0 +1,15 @@
+For inspecting our repository for the current and previous changes we can use below mentioned comments
+
+# git status
+    this command is used for chacking the files which are tracked and untracked for staging
+
+    eg: git status
+
+# git log
+    this command is used for checking logs for the lastest and previous commits
+
+    eg: git log
+
+# git tag
+
+# git blame
