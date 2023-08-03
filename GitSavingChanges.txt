@@ -1,0 +1,9 @@
+# Git pull
+    this command is used to get the lastest changes to our local
+
+    eg: git pull
+
+# Git push
+    this command is used to add the changed made to the repository
+
+    eg: git push
